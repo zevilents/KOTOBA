@@ -453,7 +453,7 @@
   { "id": "n5-kb-173", "level": "N5", "kategori": "Kata Benda", "jepang": "十月", "romaji": "juugatsu", "arti": "Oktober" },
   { "id": "n5-kb-174", "level": "N5", "kategori": "Kata Benda", "jepang": "十一月", "romaji": "juuichigatsu", "arti": "November" },
   { "id": "n5-kb-175", "level": "N5", "kategori": "Kata Benda", "jepang": "十二月", "romaji": "juunigatsu", "arti": "Desember" },
-  { "id": "n5-kb-176", "level": "N5", "kategori": "Kata Benda", "jepang": "一日", "romaji": "tsuitachi", "arti": "tanggal satu" },
+  { "id": "n5-kb-176", "level": "N5", "kategori": "Kata Benda", "jepang": "一日", "romaji": "ichinichi", "arti": "satu hari" },
   { "id": "n5-kb-177", "level": "N5", "kategori": "Kata Benda", "jepang": "二日", "romaji": "futsuka", "arti": "tanggal dua" },
   { "id": "n5-kb-178", "level": "N5", "kategori": "Kata Benda", "jepang": "四日", "romaji": "yokka", "arti": "tanggal empat" },
   { "id": "n5-kb-179", "level": "N5", "kategori": "Kata Benda", "jepang": "五日", "romaji": "itsuka", "arti": "tanggal lima" },

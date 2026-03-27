@@ -1,0 +1,1751 @@
+  {
+    "id": "N5-001",
+    "kanji": "一",
+    "onyomi": "イチ",
+    "kunyomi": "ひと-つ",
+    "meaning": "Satu",
+    "category": "Angka & Satuan",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "一時間を待ちました。",
+        "reading": "いちじかんをまちました。",
+        "romaji": "Ichijikan wo machimashita.",
+        "translation": "Saya menunggu selama satu jam."
+      }
+    ]
+  },
+  {
+    "id": "N5-002",
+    "kanji": "二",
+    "onyomi": "ニ",
+    "kunyomi": "ふた-つ",
+    "meaning": "Dua",
+    "category": "Angka & Satuan",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "二人の学生がいます。",
+        "reading": "ふたりのがくせいがいます。",
+        "romaji": "Futari no gakusei ga imasu.",
+        "translation": "Ada dua orang mahasiswa."
+      }
+    ]
+  },
+  {
+    "id": "N5-003",
+    "kanji": "三",
+    "onyomi": "サン",
+    "kunyomi": "みっ-つ",
+    "meaning": "Tiga",
+    "category": "Angka & Satuan",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "三月は春です。",
+        "reading": "さんがつははるです。",
+        "romaji": "Sangatsu wa haru desu.",
+        "translation": "Maret adalah musim semi."
+      }
+    ]
+  },
+  {
+    "id": "N5-004",
+    "kanji": "四",
+    "onyomi": "シ",
+    "kunyomi": "よっ-つ / よん",
+    "meaning": "Empat",
+    "category": "Angka & Satuan",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "四時にお茶を飲みます。",
+        "reading": "よじにおちゃをのみます。",
+        "romaji": "Yoji ni ocha wo nomimasu.",
+        "translation": "Minum teh pada jam 4 tepat."
+      }
+    ]
+  },
+  {
+    "id": "N5-005",
+    "kanji": "五",
+    "onyomi": "ゴ",
+    "kunyomi": "いつ-つ",
+    "meaning": "Lima",
+    "category": "Angka & Satuan",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "五日に行きます。",
+        "reading": "いつかにいきます。",
+        "romaji": "Itsuka ni ikimasu.",
+        "translation": "Pergi pada tanggal 5."
+      }
+    ]
+  },
+  {
+    "id": "N5-006",
+    "kanji": "六",
+    "onyomi": "ロク",
+    "kunyomi": "むっ-つ",
+    "meaning": "Enam",
+    "category": "Angka & Satuan",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "六百円です。",
+        "reading": "ろっぴゃくえんです。",
+        "romaji": "Roppyaku en desu.",
+        "translation": "Harganya 600 yen."
+      }
+    ]
+  },
+  {
+    "id": "N5-007",
+    "kanji": "七",
+    "onyomi": "シチ",
+    "kunyomi": "なな-つ / なな",
+    "meaning": "Tujuh",
+    "category": "Angka & Satuan",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "七時に起きます。",
+        "reading": "しちじにおきます。",
+        "romaji": "Shichiji ni okimasu.",
+        "translation": "Bangun jam 7 tepat."
+      }
+    ]
+  },
+  {
+    "id": "N5-008",
+    "kanji": "八",
+    "onyomi": "ハチ",
+    "kunyomi": "やっ-つ",
+    "meaning": "Delapan",
+    "category": "Angka & Satuan",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "八百屋で野菜を買う。",
+        "reading": "やおやでやさいをかう。",
+        "romaji": "Yaoya de yasai wo kau.",
+        "translation": "Membeli sayur di toko sayur."
+      }
+    ]
+  },
+  {
+    "id": "N5-009",
+    "kanji": "九",
+    "onyomi": "キュウ / ク",
+    "kunyomi": "ここの-つ",
+    "meaning": "Sembilan",
+    "category": "Angka & Satuan",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "九月の天気はいいです。",
+        "reading": "くがつのてんきはいいです。",
+        "romaji": "Kugatsu no tenki wa ii desu.",
+        "translation": "Cuaca di bulan September bagus."
+      }
+    ]
+  },
+  {
+    "id": "N5-010",
+    "kanji": "十",
+    "onyomi": "ジュウ",
+    "kunyomi": "とお",
+    "meaning": "Sepuluh",
+    "category": "Angka & Satuan",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "十日間休みます。",
+        "reading": "とおかかんやすみます。",
+        "romaji": "Tookakan yasumimasu.",
+        "translation": "Libur selama 10 hari."
+      }
+    ]
+  },
+  {
+    "id": "N5-011",
+    "kanji": "百",
+    "onyomi": "ヒャク",
+    "kunyomi": "-",
+    "meaning": "Ratusan",
+    "category": "Angka & Satuan",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "これは三百円です。",
+        "reading": "これはさんびゃくえんです。",
+        "romaji": "Kore wa sanbyaku en desu.",
+        "translation": "Ini harganya 300 yen."
+      }
+    ]
+  },
+  {
+    "id": "N5-012",
+    "kanji": "千",
+    "onyomi": "セン",
+    "kunyomi": "ち",
+    "meaning": "Ribuan",
+    "category": "Angka & Satuan",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "二千円を貸してください。",
+        "reading": "にせんえんをかしてください。",
+        "romaji": "Nisen en wo kashite kudasai.",
+        "translation": "Tolong pinjamkan saya 2000 yen."
+      }
+    ]
+  },
+  {
+    "id": "N5-013",
+    "kanji": "万",
+    "onyomi": "マン / バン",
+    "kunyomi": "-",
+    "meaning": "Puluh Ribuan",
+    "category": "Angka & Satuan",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "日本に一万人が住んでいます。",
+        "reading": "にほんにいちまんにんがすんでいます。",
+        "romaji": "Nihon ni ichiman nin ga sunde imasu.",
+        "translation": "Sepuluh ribu orang tinggal di Jepang."
+      }
+    ]
+  },
+  {
+    "id": "N5-014",
+    "kanji": "円",
+    "onyomi": "エン",
+    "kunyomi": "まる-い",
+    "meaning": "Yen / Lingkaran",
+    "category": "Angka & Satuan",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "円を描いてください。",
+        "reading": "えんをかいてください。",
+        "romaji": "En wo kaite kudasai.",
+        "translation": "Tolong gambar sebuah lingkaran."
+      }
+    ]
+  }
+  {
+    "id": "N5-015",
+    "kanji": "日",
+    "onyomi": "ニチ / ジツ",
+    "kunyomi": "ひ / -び / -か",
+    "meaning": "Matahari / Hari",
+    "category": "Alam & Elemen",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "日曜日に買い物に行きます。",
+        "reading": "にちようびにかいものにいきます。",
+        "romaji": "Nichiyoubi ni kaimono ni ikimasu.",
+        "translation": "Pergi belanja pada hari Minggu."
+      }
+    ]
+  },
+  {
+    "id": "N5-016",
+    "kanji": "月",
+    "onyomi": "ゲツ / ガツ",
+    "kunyomi": "つき",
+    "meaning": "Bulan",
+    "category": "Alam & Elemen",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "一月はとても寒いです。",
+        "reading": "いちがつはとてもさむいです。",
+        "romaji": "Ichigatsu wa totemo samui desu.",
+        "translation": "Januari sangatlah dingin."
+      }
+    ]
+  },
+  {
+    "id": "N5-017",
+    "kanji": "火",
+    "onyomi": "カ",
+    "kunyomi": "ひ / -び",
+    "meaning": "Api",
+    "category": "Alam & Elemen",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "火に気をつけてください。",
+        "reading": "ひにきをつけてください。",
+        "romaji": "Hi ni ki wo tsukete kudasai.",
+        "translation": "Tolong berhati-hati dengan api."
+      }
+    ]
+  },
+  {
+    "id": "N5-018",
+    "kanji": "水",
+    "onyomi": "スイ",
+    "kunyomi": "みず",
+    "meaning": "Air",
+    "category": "Alam & Elemen",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "冷たい水が飲みたいです。",
+        "reading": "つめたいみずがのみたいです。",
+        "romaji": "Tsumetai mizu ga nomitai desu.",
+        "translation": "Saya ingin minum air dingin."
+      }
+    ]
+  },
+  {
+    "id": "N5-019",
+    "kanji": "木",
+    "onyomi": "モク / ボク",
+    "kunyomi": "き",
+    "meaning": "Pohon",
+    "category": "Alam & Elemen",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "大きな木の下で休みましょう。",
+        "reading": "おおきなきのしたでやすみましょう。",
+        "romaji": "Ookina ki no shita de yasumimashou.",
+        "translation": "Mari beristirahat di bawah pohon besar."
+      }
+    ]
+  },
+  {
+    "id": "N5-020",
+    "kanji": "金",
+    "onyomi": "キン / コン",
+    "kunyomi": "かね / -がね",
+    "meaning": "Logam / Emas / Uang",
+    "category": "Alam & Elemen",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "お金がありません。",
+        "reading": "おかねがありません。",
+        "romaji": "Okane ga arimasen.",
+        "translation": "Tidak punya uang."
+      }
+    ]
+  },
+  {
+    "id": "N5-021",
+    "kanji": "土",
+    "onyomi": "ド / ト",
+    "kunyomi": "つち",
+    "meaning": "Tanah",
+    "category": "Alam & Elemen",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "土の中で虫が動いています。",
+        "reading": "つちなかでむしがうごいています。",
+        "romaji": "Tsuchi naka de mushi ga ugoite imasu.",
+        "translation": "Serangga sedang bergerak di dalam tanah."
+      }
+    ]
+  },
+  {
+    "id": "N5-022",
+    "kanji": "山",
+    "onyomi": "サン",
+    "kunyomi": "やま",
+    "meaning": "Gunung",
+    "category": "Alam & Elemen",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "富士山は高い山です。",
+        "reading": "ふじさんはたかいやまです。",
+        "romaji": "Fujisan wa takai yama desu.",
+        "translation": "Gunung Fuji adalah gunung yang tinggi."
+      }
+    ]
+  },
+  {
+    "id": "N5-023",
+    "kanji": "川",
+    "onyomi": "セン",
+    "kunyomi": "かわ",
+    "meaning": "Sungai",
+    "category": "Alam & Elemen",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "川で泳がないでください。",
+        "reading": "かわでおよがないでください。",
+        "romaji": "Kawa de oyoganaide kudasai.",
+        "translation": "Tolong jangan berenang di sungai."
+      }
+    ]
+  },
+  {
+    "id": "N5-024",
+    "kanji": "田",
+    "onyomi": "デン",
+    "kunyomi": "た",
+    "meaning": "Sawah",
+    "category": "Alam & Elemen",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "田んぼで米を作ります。",
+        "reading": "たんぼでこめをつくります。",
+        "romaji": "Tanbo de kome wo tsukurimasu.",
+        "translation": "Menanam beras di sawah."
+      }
+    ]
+  },
+  {
+    "id": "N5-025",
+    "kanji": "天",
+    "onyomi": "テン",
+    "kunyomi": "あめ / あま",
+    "meaning": "Langit / Surga",
+    "category": "Alam & Elemen",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "今日は天気がいいです。",
+        "reading": "きょうはてんきがいいです。",
+        "romaji": "Kyou wa tenki ga ii desu.",
+        "translation": "Hari ini cuacanya bagus."
+      }
+    ]
+  },
+  {
+    "id": "N5-026",
+    "kanji": "空",
+    "onyomi": "クウ",
+    "kunyomi": "そら / あ-く / から",
+    "meaning": "Langit / Kosong",
+    "category": "Alam & Elemen",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "空に鳥が飛んでいます。",
+        "reading": "そらにとりがとんでいます。",
+        "romaji": "Sora ni tori ga tonde imasu.",
+        "translation": "Burung sedang terbang di langit."
+      }
+    ]
+  },
+  {
+    "id": "N5-027",
+    "kanji": "雨",
+    "onyomi": "ウ",
+    "kunyomi": "あめ / あま-",
+    "meaning": "Hujan",
+    "category": "Alam & Elemen",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "外は雨が降っています。",
+        "reading": "そとはあめがふっています。",
+        "romaji": "Soto wa ame ga futte imasu.",
+        "translation": "Di luar sedang turun hujan."
+      }
+    ]
+  },
+  {
+    "id": "N5-028",
+    "kanji": "石",
+    "onyomi": "セキ / シャク / コク",
+    "kunyomi": "いし",
+    "meaning": "Batu",
+    "category": "Alam & Elemen",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "道に大きな石があります。",
+        "reading": "みちにおおきないしがあります。",
+        "romaji": "Michi ni ookina ishi ga arimasu.",
+        "translation": "Ada batu besar di jalan."
+      }
+    ]
+  },
+  {
+    "id": "N5-029",
+    "kanji": "花",
+    "onyomi": "カ",
+    "kunyomi": "はな",
+    "meaning": "Bunga",
+    "category": "Alam & Elemen",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "庭に花が咲きました。",
+        "reading": "にわにはながさきました。",
+        "romaji": "Niwa ni hana ga sakimashita.",
+        "translation": "Bunga mekar di taman."
+      }
+    ]
+  },
+  {
+    "id": "N5-030",
+    "kanji": "竹",
+    "onyomi": "チク",
+    "kunyomi": "たけ",
+    "meaning": "Bambu",
+    "category": "Alam & Elemen",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "パンダは竹を食べます。",
+        "reading": "ぱんだはたけをたべます。",
+        "romaji": "Panda wa take wo tabemasu.",
+        "translation": "Panda makan bambu."
+      }
+    ]
+  }
+  {
+    "id": "N5-031",
+    "kanji": "時",
+    "onyomi": "ジ",
+    "kunyomi": "とき",
+    "meaning": "Waktu / Jam",
+    "category": "Waktu & Kalender",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "今、何時ですか？",
+        "reading": "いま、なんじですか？",
+        "romaji": "Ima, nanji desu ka?",
+        "translation": "Sekarang jam berapa?"
+      }
+    ]
+  },
+  {
+    "id": "N5-032",
+    "kanji": "分",
+    "onyomi": "ブン / フン / プン",
+    "kunyomi": "わ-かる / わ-ける",
+    "meaning": "Menit / Membagi / Mengerti",
+    "category": "Waktu & Kalender",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "五分待ってください。",
+        "reading": "ごふんまってください。",
+        "romaji": "Gofun matte kudasai.",
+        "translation": "Tolong tunggu lima menit."
+      }
+    ]
+  },
+  {
+    "id": "N5-033",
+    "kanji": "半",
+    "onyomi": "ハン",
+    "kunyomi": "なか-ば",
+    "meaning": "Setengah",
+    "category": "Waktu & Kalender",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "二時半に会いましょう。",
+        "reading": "にじはんにおいてあいましょう。",
+        "romaji": "Nijihan ni aimashou.",
+        "translation": "Mari bertemu jam setengah tiga."
+      }
+    ]
+  },
+  {
+    "id": "N5-034",
+    "kanji": "午",
+    "onyomi": "ゴ",
+    "kunyomi": "-",
+    "meaning": "Siang / Tengah Hari",
+    "category": "Waktu & Kalender",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "明日の午後、行きます。",
+        "reading": "あしたのごご、いきます。",
+        "romaji": "Ashita no gogo, ikimasu.",
+        "translation": "Besok siang, saya akan pergi."
+      }
+    ]
+  },
+  {
+    "id": "N5-035",
+    "kanji": "前",
+    "onyomi": "ゼン",
+    "kunyomi": "まえ",
+    "meaning": "Depan / Sebelum",
+    "category": "Waktu & Kalender",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "駅の前で待ちます。",
+        "reading": "えきのまえでまちます。",
+        "romaji": "Eki no mae de machimasu.",
+        "translation": "Menunggu di depan stasiun."
+      }
+    ]
+  },
+  {
+    "id": "N5-036",
+    "kanji": "後",
+    "onyomi": "ゴ / コウ",
+    "kunyomi": "あと / のち / うし-ろ",
+    "meaning": "Belakang / Sesudah",
+    "category": "Waktu & Kalender",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "三日の後、帰ります。",
+        "reading": "みっかのあと、かえります。",
+        "romaji": "Mikka no ato, kaerimasu.",
+        "translation": "Sesudah tiga hari, saya akan pulang."
+      }
+    ]
+  },
+  {
+    "id": "N5-037",
+    "kanji": "今",
+    "onyomi": "コン / キン",
+    "kunyomi": "いま",
+    "meaning": "Sekarang",
+    "category": "Waktu & Kalender",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "今月は忙しいです。",
+        "reading": "こんしゅうはいそがしいです。",
+        "romaji": "Konshuu wa isogashii desu.",
+        "translation": "Minggu ini sibuk."
+      }
+    ]
+  },
+  {
+    "id": "N5-038",
+    "kanji": "先",
+    "onyomi": "セン",
+    "kunyomi": "さき",
+    "meaning": "Lalu / Sebelumnya",
+    "category": "Waktu & Kalender",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "先週、映画を見ました。",
+        "reading": "せんしゅう、えいがをみました。",
+        "romaji": "Senshuu, eiga wo mimashita.",
+        "translation": "Minggu lalu, saya menonton film."
+      }
+    ]
+  },
+  {
+    "id": "N5-039",
+    "kanji": "来",
+    "onyomi": "ライ",
+    "kunyomi": "く-る / こ-ない / き-ます",
+    "meaning": "Datang / Depan (Masa Depan)",
+    "category": "Waktu & Kalender",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "来月、日本に来ますか？",
+        "reading": "らいげつ、にほんにきますか？",
+        "romaji": "Raigetsu, nihon ni kimasu ka?",
+        "translation": "Bulan depan, apakah kamu datang ke Jepang?"
+      }
+    ]
+  },
+  {
+    "id": "N5-040",
+    "kanji": "年",
+    "onyomi": "ネン",
+    "kunyomi": "とし",
+    "meaning": "Tahun",
+    "category": "Waktu & Kalender",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "来年は二年生になります。",
+        "reading": "らいねんはにねんせいになります。",
+        "romaji": "Rainen wa ninensei ni narimasu.",
+        "translation": "Tahun depan akan menjadi murid kelas dua."
+      }
+    ]
+  },
+  {
+    "id": "N5-041",
+    "kanji": "間",
+    "onyomi": "カン / ケン",
+    "kunyomi": "あいだ / ま",
+    "meaning": "Diantara / Durasi / Jeda",
+    "category": "Waktu & Kalender",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "二時間勉強しました。",
+        "reading": "にじかんべんきょうしました。",
+        "romaji": "Nijikan benkyou shimashita.",
+        "translation": "Sudah belajar selama dua jam."
+      }
+    ]
+  },
+  {
+    "id": "N5-042",
+    "kanji": "週",
+    "onyomi": "シュウ",
+    "kunyomi": "-",
+    "meaning": "Minggu (Satuan Waktu)",
+    "category": "Waktu & Kalender",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "一週間休みます。",
+        "reading": "いっしゅうかんやすみます。",
+        "romaji": "Isshuukan yasumimasu.",
+        "translation": "Libur selama satu minggu."
+      }
+    ]
+  },
+  {
+    "id": "N5-043",
+    "kanji": "毎",
+    "onyomi": "マイ",
+    "kunyomi": "-",
+    "meaning": "Setiap",
+    "category": "Waktu & Kalender",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "毎日、日本語を話します。",
+        "reading": "まいにち、にほんごをはなします。",
+        "romaji": "Mainichi, nihongo wo hanashimasu.",
+        "translation": "Setiap hari bicara bahasa Jepang."
+      }
+    ]
+  }
+  {
+    "id": "N5-044",
+    "kanji": "人",
+    "onyomi": "ジン / ニン",
+    "kunyomi": "hito",
+    "meaning": "Orang",
+    "category": "Manusia & Tubuh",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "あの人は誰ですか？",
+        "reading": "あのひとはだれですか？",
+        "romaji": "Ano hito wa dare desu ka?",
+        "translation": "Orang itu siapa?"
+      }
+    ]
+  },
+  {
+    "id": "N5-045",
+    "kanji": "子",
+    "onyomi": "シ / ス",
+    "kunyomi": "ko",
+    "meaning": "Anak",
+    "category": "Manusia & Tubuh",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "あの子は私の妹です。",
+        "reading": "あのこはわたしのいもうとです。",
+        "romaji": "Ano ko wa watashi no imouto desu.",
+        "translation": "Anak itu adalah adik perempuan saya."
+      }
+    ]
+  },
+  {
+    "id": "N5-046",
+    "kanji": "女",
+    "onyomi": "ジョ",
+    "kunyomi": "onna",
+    "meaning": "Wanita",
+    "category": "Manusia & Tubuh",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "女の子が公園にいます。",
+        "reading": "おんなのこがこうえんにいます。",
+        "romaji": "Onna no ko ga kouen ni imasu.",
+        "translation": "Anak perempuan ada di taman."
+      }
+    ]
+  },
+  {
+    "id": "N5-047",
+    "kanji": "男",
+    "onyomi": "ダン / ナン",
+    "kunyomi": "otoko",
+    "meaning": "Pria",
+    "category": "Manusia & Tubuh",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "男の人が走っています。",
+        "reading": "おとこのひとがはしっています。",
+        "romaji": "Otoko no hito ga hashitte imasu.",
+        "translation": "Seorang pria sedang berlari."
+      }
+    ]
+  },
+  {
+    "id": "N5-048",
+    "kanji": "父",
+    "onyomi": "フ",
+    "kunyomi": "chichi",
+    "meaning": "Ayah (Sendiri)",
+    "category": "Manusia & Tubuh",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "私の父は先生です。",
+        "reading": "わたしのちちはせんせいです。",
+        "romaji": "Watashi no chichi wa sensei desu.",
+        "translation": "Ayah saya adalah seorang guru."
+      }
+    ]
+  },
+  {
+    "id": "N5-049",
+    "kanji": "母",
+    "onyomi": "ボ",
+    "kunyomi": "haha",
+    "meaning": "Ibu (Sendiri)",
+    "category": "Manusia & Tubuh",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "母は料理が上手です。",
+        "reading": "はははりょうりがじょうずです。",
+        "romaji": "Haha wa ryouri ga jouzu desu.",
+        "translation": "Ibu pandai memasak."
+      }
+    ]
+  },
+  {
+    "id": "N5-050",
+    "kanji": "目",
+    "onyomi": "モク",
+    "kunyomi": "me",
+    "meaning": "Mata",
+    "category": "Manusia & Tubuh",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "目が痛いです。",
+        "reading": "めがいたいです。",
+        "romaji": "Me ga itai desu.",
+        "translation": "Mata saya sakit."
+      }
+    ]
+  },
+  {
+    "id": "N5-051",
+    "kanji": "耳",
+    "onyomi": "ジ",
+    "kunyomi": "mimi",
+    "meaning": "Telinga",
+    "category": "Manusia & Tubuh",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "耳が大きいです。",
+        "reading": "mimi ga ookii desu.",
+        "romaji": "Mimi ga ookii desu.",
+        "translation": "Telinganya besar."
+      }
+    ]
+  },
+  {
+    "id": "N5-052",
+    "kanji": "口",
+    "onyomi": "コウ / ク",
+    "kunyomi": "kuchi",
+    "meaning": "Mulut",
+    "category": "Manusia & Tubuh",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "口を開けてください。",
+        "reading": "くちをあけてください。",
+        "romaji": "Kuchi wo akete kudasai.",
+        "translation": "Tolong buka mulutnya."
+      }
+    ]
+  },
+  {
+    "id": "N5-053",
+    "kanji": "手",
+    "onyomi": "シュ",
+    "kunyomi": "te",
+    "meaning": "Tangan",
+    "category": "Manusia & Tubuh",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "手を洗います。",
+        "reading": "てをあらいます。",
+        "romaji": "Te wo araimasu.",
+        "translation": "Mencuci tangan."
+      }
+    ]
+  },
+  {
+    "id": "N5-054",
+    "kanji": "足",
+    "onyomi": "ソク",
+    "kunyomi": "ashi / ta-riru",
+    "meaning": "Kaki / Cukup",
+    "category": "Manusia & Tubuh",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "足が長いです。",
+        "reading": "あしがながいです。",
+        "romaji": "Ashi ga nagai desu.",
+        "translation": "Kakinya panjang."
+      }
+    ]
+  },
+  {
+    "id": "N5-055",
+    "kanji": "体",
+    "onyomi": "タイ",
+    "kunyomi": "karada",
+    "meaning": "Tubuh / Badan",
+    "category": "Manusia & Tubuh",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "体を大切にしてください。",
+        "reading": "からだをたいせつにしてください。",
+        "romaji": "Karada wo taisetsu ni shite kudasai.",
+        "translation": "Tolong jaga kesehatan tubuhmu."
+      }
+    ]
+  }
+  {
+    "id": "N5-056",
+    "kanji": "上",
+    "onyomi": "ジョウ",
+    "kunyomi": "うえ / あ-がる",
+    "meaning": "Atas / Naik",
+    "category": "Arah & Posisi",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "机の上に本があります。",
+        "reading": "つくえのうえにほんがあります。",
+        "romaji": "Tsukue no ue ni hon ga arimasu.",
+        "translation": "Ada buku di atas meja."
+      }
+    ]
+  },
+  {
+    "id": "N5-057",
+    "kanji": "下",
+    "onyomi": "カ / ゲ",
+    "kunyomi": "した / さ-がる",
+    "meaning": "Bawah / Turun",
+    "category": "Arah & Posisi",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "木の下で休みましょう。",
+        "reading": "きのしたでやすみましょう。",
+        "romaji": "Ki no shita de yasumimashou.",
+        "translation": "Mari beristirahat di bawah pohon."
+      }
+    ]
+  },
+  {
+    "id": "N5-058",
+    "kanji": "左",
+    "onyomi": "サ",
+    "kunyomi": "ひだり",
+    "meaning": "Kiri",
+    "category": "Arah & Posisi",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "左に曲がってください。",
+        "reading": "ひだりにまがってください。",
+        "romaji": "Hidari ni magatte kudasai.",
+        "translation": "Tolong belok ke kiri."
+      }
+    ]
+  },
+  {
+    "id": "N5-059",
+    "kanji": "右",
+    "onyomi": "ウ / ユウ",
+    "kunyomi": "みぎ",
+    "meaning": "Kanan",
+    "category": "Arah & Posisi",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "右手でペンを持ちます。",
+        "reading": "みぎてでぺんをもちます。",
+        "romaji": "Migite de pen wo mochimasu.",
+        "translation": "Memegang pulpen dengan tangan kanan."
+      }
+    ]
+  },
+  {
+    "id": "N5-060",
+    "kanji": "中",
+    "onyomi": "チュウ",
+    "kunyomi": "なか",
+    "meaning": "Dalam / Tengah",
+    "category": "Arah & Posisi",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "箱の中に何がありますか？",
+        "reading": "はこのなかになにがありますか？",
+        "romaji": "Hako no naka ni nani ga arimasu ka?",
+        "translation": "Ada apa di dalam kotak?"
+      }
+    ]
+  },
+  {
+    "id": "N5-061",
+    "kanji": "外",
+    "onyomi": "ガイ / ゲ",
+    "kunyomi": "そと / はず-れる",
+    "meaning": "Luar",
+    "category": "Arah & Posisi",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "外はとても寒いです。",
+        "reading": "そとはとてもさむいです。",
+        "romaji": "Soto wa totemo samui desu.",
+        "translation": "Di luar sangat dingin."
+      }
+    ]
+  },
+  {
+    "id": "N5-062",
+    "kanji": "北",
+    "onyomi": "ホク",
+    "kunyomi": "きた",
+    "meaning": "Utara",
+    "category": "Arah & Posisi",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "北海道は日本の北にあります。",
+        "reading": "ほっかいどうはにほんのきたにあります。",
+        "romaji": "Hokkaido wa nihon no kita ni arimasu.",
+        "translation": "Hokkaido berada di utara Jepang."
+      }
+    ]
+  },
+  {
+    "id": "N5-063",
+    "kanji": "南",
+    "onyomi": "ナン",
+    "kunyomi": "みなみ",
+    "meaning": "Selatan",
+    "category": "Arah & Posisi",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "南の国へ行きたいです。",
+        "reading": "みなみのくにへいきたいです。",
+        "romaji": "Minami no kuni he ikitai desu.",
+        "translation": "Saya ingin pergi ke negara selatan."
+      }
+    ]
+  },
+  {
+    "id": "N5-064",
+    "kanji": "東",
+    "onyomi": "トウ",
+    "kunyomi": "ひがし",
+    "meaning": "Timur",
+    "category": "Arah & Posisi",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "東京は日本の東にあります。",
+        "reading": "とうきょうはにほんのひがしにあります。",
+        "romaji": "Tokyo wa nihon no higashi ni arimasu.",
+        "translation": "Tokyo berada di timur Jepang."
+      }
+    ]
+  },
+  {
+    "id": "N5-065",
+    "kanji": "西",
+    "onyomi": "セイ / サイ",
+    "kunyomi": "にし",
+    "meaning": "Barat",
+    "category": "Arah & Posisi",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "西の空が赤いです。",
+        "reading": "にしのそらがあかいです。",
+        "romaji": "Nishi no sora ga akai desu.",
+        "translation": "Langit barat berwarna merah."
+      }
+    ]
+  }
+  {
+    "id": "N5-066",
+    "kanji": "行",
+    "onyomi": "コウ / ギョウ",
+    "kunyomi": "い-く / おこな-う",
+    "meaning": "Pergi / Melakukan",
+    "category": "Kata Kerja Dasar",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "明日、学校へ行きます。",
+        "reading": "あした、がっこうへいきます。",
+        "romaji": "Ashita, gakkou he ikimasu.",
+        "translation": "Besok akan pergi ke sekolah."
+      }
+    ]
+  },
+  {
+    "id": "N5-067",
+    "kanji": "見",
+    "onyomi": "ケン",
+    "kunyomi": "み-る / み-える",
+    "meaning": "Melihat / Menonton",
+    "category": "Kata Kerja Dasar",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "一緒に映画を見ましょう。",
+        "reading": "いっしょにえいがをみましょう。",
+        "romaji": "Isshou ni eiga wo mimashou.",
+        "translation": "Mari menonton film bersama-sama."
+      }
+    ]
+  },
+  {
+    "id": "N5-068",
+    "kanji": "食",
+    "onyomi": "ショク",
+    "kunyomi": "た-べる / く-う",
+    "meaning": "Makan",
+    "category": "Kata Kerja Dasar",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "朝ごはんを食べましたか？",
+        "reading": "あさごはんをたべましたか？",
+        "romaji": "Asagohan wo tabemashita ka?",
+        "translation": "Apakah sudah makan sarapan?"
+      }
+    ]
+  },
+  {
+    "id": "N5-069",
+    "kanji": "飲",
+    "onyomi": "イン",
+    "kunyomi": "の-む",
+    "meaning": "Minum",
+    "category": "Kata Kerja Dasar",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "冷たいお茶を飲みます。",
+        "reading": "つめたいおちゃをのみます。",
+        "romaji": "Tsumetai ocha wo nomimasu.",
+        "translation": "Minum teh dingin."
+      }
+    ]
+  },
+  {
+    "id": "N5-070",
+    "kanji": "言",
+    "onyomi": "ゲン / ゴン",
+    "kunyomi": "い-う / こと",
+    "meaning": "Berkata / Berbicara",
+    "category": "Kata Kerja Dasar",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "日本語で何と言いますか？",
+        "reading": "にほんごでなんといいますか？",
+        "romaji": "Nihongo de nan to iimasu ka?",
+        "translation": "Disebut apa dalam bahasa Jepang?"
+      }
+    ]
+  },
+  {
+    "id": "N5-071",
+    "kanji": "読",
+    "onyomi": "ドク / トク",
+    "kunyomi": "よ-む",
+    "meaning": "Membaca",
+    "category": "Kata Kerja Dasar",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "毎晩、本を読みます。",
+        "reading": "まいばん、ほんをよみます。",
+        "romaji": "Maiban, hon wo yomimasu.",
+        "translation": "Membaca buku setiap malam."
+      }
+    ]
+  },
+  {
+    "id": "N5-072",
+    "kanji": "書",
+    "onyomi": "ショ",
+    "kunyomi": "か-く",
+    "meaning": "Menulis",
+    "category": "Kata Kerja Dasar",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "名前を書いてください。",
+        "reading": "なまえをかいてください。",
+        "romaji": "Namae wo kaite kudasai.",
+        "translation": "Tolong tulis namanya."
+      }
+    ]
+  },
+  {
+    "id": "N5-073",
+    "kanji": "聞",
+    "onyomi": "ブン / モン",
+    "kunyomi": "き-く / き-こえる",
+    "meaning": "Mendengar / Bertanya",
+    "category": "Kata Kerja Dasar",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "音楽を聞くのが好きです。",
+        "reading": "おんがくをきくのがすきです。",
+        "romaji": "Ongaku wo kiku no ga suki desu.",
+        "translation": "Saya suka mendengarkan musik."
+      }
+    ]
+  },
+  {
+    "id": "N5-074",
+    "kanji": "話",
+    "onyomi": "ワ",
+    "kunyomi": "はな-す / はなし",
+    "meaning": "Berbicara / Cerita",
+    "category": "Kata Kerja Dasar",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "先生と話しました。",
+        "reading": "せんせいとはなしました。",
+        "romaji": "Sensei to hanashimashita.",
+        "translation": "Sudah berbicara dengan guru."
+      }
+    ]
+  },
+  {
+    "id": "N5-075",
+    "kanji": "買",
+    "onyomi": "バイ",
+    "kunyomi": "か-う",
+    "meaning": "Membeli",
+    "category": "Kata Kerja Dasar",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "デパートで靴を買いました。",
+        "reading": "でぱーとでくつをかいました。",
+        "romaji": "Depa-to de kutsu wo kaimashita.",
+        "translation": "Sudah membeli sepatu di departement store."
+      }
+    ]
+  },
+  {
+    "id": "N5-076",
+    "kanji": "出",
+    "onyomi": "シュツ / スイ",
+    "kunyomi": "で-る / だ-す",
+    "meaning": "Keluar / Mengeluarkan",
+    "category": "Kata Kerja Dasar",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "七時に家を出ます。",
+        "reading": "しちじにいえをでます。",
+        "romaji": "Shichiji ni ie wo demasu.",
+        "translation": "Keluar rumah pada jam 7."
+      }
+    ]
+  },
+  {
+    "id": "N5-077",
+    "kanji": "入",
+    "onyomi": "ニュウ",
+    "kunyomi": "はい-る / い-れる",
+    "meaning": "Masuk / Memasukkan",
+    "category": "Kata Kerja Dasar",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "部屋に入ってください。",
+        "reading": "へやにはいってください。",
+        "romaji": "Heya ni haitte kudasai.",
+        "translation": "Tolong masuk ke dalam kamar."
+      }
+    ]
+  },
+  {
+    "id": "N5-078",
+    "kanji": "休",
+    "onyomi": "キュウ",
+    "kunyomi": "やす-む / やす-み",
+    "meaning": "Istirahat / Libur",
+    "category": "Kata Kerja Dasar",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "少し休みましょう。",
+        "reading": "すこしやすみましょう。",
+        "romaji": "Sukoshi yasumimashou.",
+        "translation": "Mari beristirahat sebentar."
+      }
+    ]
+  }
+  {
+    "id": "N5-079",
+    "kanji": "大",
+    "onyomi": "ダイ / タイ",
+    "kunyomi": "oo-kii",
+    "meaning": "Besar",
+    "category": "Kata Sifat & Kondisi",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "大きな家ですね。",
+        "reading": "おおきないえですね。",
+        "romaji": "Ookina ie desu ne.",
+        "translation": "Rumah yang besar ya."
+      }
+    ]
+  },
+  {
+    "id": "N5-080",
+    "kanji": "小",
+    "onyomi": "ショウ",
+    "kunyomi": "chii-sai / ko / o",
+    "meaning": "Kecil",
+    "category": "Kata Sifat & Kondisi",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "小さな犬がいます。",
+        "reading": "ちいさないぬがいます。",
+        "romaji": "Chiisana inu ga imasu.",
+        "translation": "Ada anjing kecil."
+      }
+    ]
+  },
+  {
+    "id": "N5-081",
+    "kanji": "高",
+    "onyomi": "コウ",
+    "kunyomi": "taka-i",
+    "meaning": "Tinggi / Mahal",
+    "category": "Kata Sifat & Kondisi",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "この時計は高いです。",
+        "reading": "このとけいはたかいです。",
+        "romaji": "Kono tokei wa takai desu.",
+        "translation": "Jam tangan ini mahal."
+      }
+    ]
+  },
+  {
+    "id": "N5-082",
+    "kanji": "安",
+    "onyomi": "アン",
+    "kunyomi": "yasu-i",
+    "meaning": "Murah / Tenang",
+    "category": "Kata Sifat & Kondisi",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "安い野菜を買いました。",
+        "reading": "やすいやさいをかいました。",
+        "romaji": "Yasui yasai wo kaimashita.",
+        "translation": "Sudah membeli sayur yang murah."
+      }
+    ]
+  },
+  {
+    "id": "N5-083",
+    "kanji": "新",
+    "onyomi": "シン",
+    "kunyomi": "atara-shii",
+    "meaning": "Baru",
+    "category": "Kata Sifat & Kondisi",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "新しい車が欲しいです。",
+        "reading": "あたらしいくるまがほしいです。",
+        "romaji": "Atarashii kuruma ga hoshii desu.",
+        "translation": "Saya ingin mobil baru."
+      }
+    ]
+  },
+  {
+    "id": "N5-084",
+    "kanji": "古",
+    "onyomi": "コ",
+    "kunyomi": "furu-i",
+    "meaning": "Lama / Tua / Kuno",
+    "category": "Kata Sifat & Kondisi",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "古い本を読みます。",
+        "reading": "ふるいほんをよみます。",
+        "romaji": "Furui hon wo yomimasu.",
+        "translation": "Membaca buku lama."
+      }
+    ]
+  },
+  {
+    "id": "N5-085",
+    "kanji": "長",
+    "onyomi": "チョウ",
+    "kunyomi": "naga-i",
+    "meaning": "Panjang / Pemimpin",
+    "category": "Kata Sifat & Kondisi",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "長い道ですね。",
+        "reading": "ながいみちですね。",
+        "romaji": "Nagai michi desu ne.",
+        "translation": "Jalan yang panjang ya."
+      }
+    ]
+  },
+  {
+    "id": "N5-086",
+    "kanji": "多",
+    "onyomi": "タ",
+    "kunyomi": "oo-i",
+    "meaning": "Banyak",
+    "category": "Kata Sifat & Kondisi",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "人が多いです。",
+        "reading": "ひとがおおいです。",
+        "romaji": "Hito ga ooi desu.",
+        "translation": "Banyak orang."
+      }
+    ]
+  },
+  {
+    "id": "N5-087",
+    "kanji": "少",
+    "onyomi": "ショウ",
+    "kunyomi": "suku-nai / suko-shi",
+    "meaning": "Sedikit",
+    "category": "Kata Sifat & Kondisi",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "水が少ないです。",
+        "reading": "みずがすくないです。",
+        "romaji": "Mizu ga sukunai desu.",
+        "translation": "Airnya sedikit."
+      }
+    ]
+  },
+  {
+    "id": "N5-088",
+    "kanji": "白",
+    "onyomi": "ハク",
+    "kunyomi": "shiro / shiro-i",
+    "meaning": "Putih",
+    "category": "Kata Sifat & Kondisi",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "白いシャツを着ます。",
+        "reading": "しろいしゃつをきます。",
+        "romaji": "Shiroi shatsu wo kimasu.",
+        "translation": "Memakai kemeja putih."
+      }
+    ]
+  },
+  {
+    "id": "N5-089",
+    "kanji": "黒",
+    "onyomi": "コク",
+    "kunyomi": "kuro / kuro-i",
+    "meaning": "Hitam",
+    "category": "Kata Sifat & Kondisi",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "黒いカバンを買いました。",
+        "reading": "くろいかばんをかいました。",
+        "romaji": "Kuroi kaban wo kaimashita.",
+        "translation": "Sudah membeli tas hitam."
+      }
+    ]
+  },
+  {
+    "id": "N5-090",
+    "kanji": "赤",
+    "onyomi": "セキ",
+    "kunyomi": "aka / aka-i",
+    "meaning": "Merah",
+    "category": "Kata Sifat & Kondisi",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "赤い花が咲きました。",
+        "reading": "あかいはながさきました。",
+        "romaji": "Akai hana ga sakimashita.",
+        "translation": "Bunga merah telah mekar."
+      }
+    ]
+  },
+  {
+    "id": "N5-091",
+    "kanji": "青",
+    "onyomi": "セイ",
+    "kunyomi": "ao / ao-i",
+    "meaning": "Biru",
+    "category": "Kata Sifat & Kondisi",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "青い空がきれいです。",
+        "reading": "あおいそらがきれいです。",
+        "romaji": "Aoi sora ga kirei desu.",
+        "translation": "Langit biru yang indah."
+      }
+    ]
+  }
+  {
+    "id": "N5-092",
+    "kanji": "学",
+    "onyomi": "ガク",
+    "kunyomi": "mana-bu",
+    "meaning": "Belajar / Ilmu",
+    "category": "Sekolah & Masyarakat",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "大学で勉強します。",
+        "reading": "だいがくでべんきょうします。",
+        "romaji": "Daigaku de benkyou shimasu.",
+        "translation": "Belajar di universitas."
+      }
+    ]
+  },
+  {
+    "id": "N5-093",
+    "kanji": "校",
+    "onyomi": "コウ",
+    "kunyomi": "-",
+    "meaning": "Sekolah",
+    "category": "Sekolah & Masyarakat",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "学校は八時に始まります。",
+        "reading": "がっこうははちじにはじまります。",
+        "romaji": "Gakkou wa hachiji ni hajimarimasu.",
+        "translation": "Sekolah dimulai pada jam 8."
+      }
+    ]
+  },
+  {
+    "id": "N5-094",
+    "kanji": "生",
+    "onyomi": "セイ / ショウ",
+    "kunyomi": "i-kiru / u-mareru / nama",
+    "meaning": "Hidup / Lahir / Murid",
+    "category": "Sekolah & Masyarakat",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "先生、質問があります。",
+        "reading": "せんせい、しつもんがあります。",
+        "romaji": "Sensei, shitsumon ga arimasu.",
+        "translation": "Guru, saya punya pertanyaan."
+      }
+    ]
+  },
+  {
+    "id": "N5-095",
+    "kanji": "会",
+    "onyomi": "カイ / エ",
+    "kunyomi": "あ-う",
+    "meaning": "Bertemu / Perkumpulan",
+    "category": "Sekolah & Masyarakat",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "明日、友達に会います。",
+        "reading": "あした、ともだちにあいます。",
+        "romaji": "Ashita, tomodachi ni aimasu.",
+        "translation": "Besok akan bertemu teman."
+      }
+    ]
+  },
+  {
+    "id": "N5-096",
+    "kanji": "社",
+    "onyomi": "シャ",
+    "kunyomi": "yashiro",
+    "meaning": "Perusahaan / Kantor / Kuil",
+    "category": "Sekolah & Masyarakat",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "会社へ行きます。",
+        "reading": "かいしゃへいきます。",
+        "romaji": "Kaisha he ikimasu.",
+        "translation": "Pergi ke kantor/perusahaan."
+      }
+    ]
+  },
+  {
+    "id": "N5-097",
+    "kanji": "店",
+    "onyomi": "テン",
+    "kunyomi": "mise",
+    "meaning": "Toko",
+    "category": "Sekolah & Masyarakat",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "この店は安いです。",
+        "reading": "このみせはやすいです。",
+        "romaji": "Kono mise wa yasui desu.",
+        "translation": "Toko ini murah."
+      }
+    ]
+  },
+  {
+    "id": "N5-098",
+    "kanji": "国",
+    "onyomi": "コク",
+    "kunyomi": "kuni",
+    "meaning": "Negara",
+    "category": "Sekolah & Masyarakat",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "あなたの国はどこですか？",
+        "reading": "あなたのくにはどこですか？",
+        "romaji": "Anata no kuni wa doko desu ka?",
+        "translation": "Negaramu di mana?"
+      }
+    ]
+  },
+  {
+    "id": "N5-099",
+    "kanji": "語",
+    "onyomi": "ゴ",
+    "kunyomi": "kata-ru",
+    "meaning": "Bahasa / Kata",
+    "category": "Sekolah & Masyarakat",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "日本語を勉強しています。",
+        "reading": "にほんごをべんきょうしています。",
+        "romaji": "Nihongo wo benkyou shite imasu.",
+        "translation": "Sedang belajar bahasa Jepang."
+      }
+    ]
+  },
+  {
+    "id": "N5-100",
+    "kanji": "名",
+    "onyomi": "メイ / ミョウ",
+    "kunyomi": "na",
+    "meaning": "Nama / Terkenal",
+    "category": "Sekolah & Masyarakat",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "お名前は何ですか？",
+        "reading": "おなまえはなんですか？",
+        "romaji": "O-namae wa nan desu ka?",
+        "translation": "Namanya siapa?"
+      }
+    ]
+  },
+  {
+    "id": "N5-101",
+    "kanji": "電",
+    "onyomi": "デン",
+    "kunyomi": "-",
+    "meaning": "Listrik",
+    "category": "Sekolah & Masyarakat",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "電車で行きましょう。",
+        "reading": "でんしゃでいきましょう。",
+        "romaji": "Densha de ikimashou.",
+        "translation": "Mari pergi menggunakan kereta listrik."
+      }
+    ]
+  },
+  {
+    "id": "N5-102",
+    "kanji": "友",
+    "onyomi": "ユウ",
+    "kunyomi": "tomo",
+    "meaning": "Teman",
+    "category": "Sekolah & Masyarakat",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "友達と遊びます。",
+        "reading": "ともだちとあそびます。",
+        "romaji": "Tomodachi to asobimasu.",
+        "translation": "Bermain dengan teman."
+      }
+    ]
+  },
+  {
+    "id": "N5-103",
+    "kanji": "何",
+    "onyomi": "カ",
+    "kunyomi": "nani / nan",
+    "meaning": "Apa",
+    "category": "Sekolah & Masyarakat",
+    "level": "N5",
+    "examples": [
+      {
+        "sentence": "これは何ですか？",
+        "reading": "これはなんですか？",
+        "romaji": "Kore wa nan desu ka?",
+        "translation": "Ini apa?"
+      }
+    ]
+  }

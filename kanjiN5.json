@@ -1,4 +1,5 @@
-  {
+[
+{
     "id": "N5-001",
     "kanji": "一",
     "onyomi": "イチ",
@@ -235,7 +236,7 @@
         "translation": "Tolong gambar sebuah lingkaran."
       }
     ]
-  }
+  },
   {
     "id": "N5-015",
     "kanji": "日",
@@ -507,7 +508,7 @@
         "translation": "Panda makan bambu."
       }
     ]
-  }
+  },
   {
     "id": "N5-031",
     "kanji": "時",
@@ -728,7 +729,7 @@
         "translation": "Setiap hari bicara bahasa Jepang."
       }
     ]
-  }
+  },
   {
     "id": "N5-044",
     "kanji": "人",
@@ -932,7 +933,7 @@
         "translation": "Tolong jaga kesehatan tubuhmu."
       }
     ]
-  }
+  },
   {
     "id": "N5-056",
     "kanji": "上",
@@ -1102,7 +1103,7 @@
         "translation": "Langit barat berwarna merah."
       }
     ]
-  }
+  },
   {
     "id": "N5-066",
     "kanji": "行",
@@ -1323,7 +1324,7 @@
         "translation": "Mari beristirahat sebentar."
       }
     ]
-  }
+  },
   {
     "id": "N5-079",
     "kanji": "大",
@@ -1544,7 +1545,7 @@
         "translation": "Langit biru yang indah."
       }
     ]
-  }
+  },
   {
     "id": "N5-092",
     "kanji": "学",
@@ -1749,3 +1750,4 @@
       }
     ]
  }
+]
